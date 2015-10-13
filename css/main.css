@@ -405,6 +405,33 @@ display:none;
 @media (max-width: 800px)
 
 
-.one{
-display:
+.two{
+display:inline;
 }
+
+
+@media (max-width: 600px)
+
+
+.three{
+display:inline
+}
+@media (max-width: 400px)
+
+
+.four{
+display:inline
+}
+@media (max-width: 200px)
+
+
+.five{
+display:inline
+}
+@media (max-width: 100px)
+
+
+.six{
+display:inline
+}
+
