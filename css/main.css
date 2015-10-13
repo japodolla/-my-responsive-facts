@@ -402,36 +402,36 @@ display:none;
 }
 
 
-@media (max-width: 800px)
+@media (max-width: 800px){
 
 
 .two{
 display:inline;
 }
+}
 
 
-@media (max-width: 600px)
+@media (max-width: 600px){
 
 
 .three{
-display:inline
+display:inline;
 }
-@media (max-width: 400px)
-
-
+}
+@media (max-width: 400px){
 .four{
-display:inline
+display:inline;
 }
-@media (max-width: 200px)
 
-
+}
+@media (max-width: 200px){
 .five{
-display:inline
+display:inline;
 }
-@media (max-width: 100px)
-
-
+}
+@media (max-width: 100px){
 .six{
-display:inline
+display:inline;
+}
 }
 
